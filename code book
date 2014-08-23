@@ -219,18 +219,19 @@ fBodyAccMag-std()
 
 
 fBodyBodyAccJerkMag-mean()
-  
+  Mean of the FFT of the magnitude of the jerk signals obtained from body linear accelaration and angular velocity
 
 fBodyBodyAccJerkMag-std()
-
+   Standard deviation of the FFT of the magnitude of the jerk signals obtained from body linear accelaration and angular velocity                           
 
 fBodyBodyGyroMag-mean()
-
+   Mean of the FFT of the magnitude of the jerk signals obtained from body linear accelaration and angular velocity from gyroscope                          
 
 fBodyBodyGyroMag-std()
-
+   Standard deviation of the FFT of the magnitude of the jerk signals obtained from body linear accelaration and angular velocity from gyroscope                            
 
 fBodyBodyGyroJerkMag-mean()
-
+    Mean of the FFT of the magnitude of the jerk signals obtained from body linear accelaration and angular velocity from gyroscope                          
 
 fBodyBodyGyroJerkMag-std()
+  Standard deviation of the FFT of the magnitude of the jerk signals obtained from body linear accelaration and angular velocity from gyroscope                            
